@@ -56,6 +56,11 @@ The project follows a modern **Bronze → Silver → Gold** data architecture to
 </table>
 
 ---
+## star schema overview
+
+<img width="715" height="717" alt="telco_churn_star_schema" src="https://github.com/user-attachments/assets/3d9f515b-50f3-4e7a-8a62-9520a337b2b7" />
+
+---
 
 ## Tech Stack
 
